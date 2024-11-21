@@ -6,10 +6,10 @@ export const Footer: React.FC = () => {
     return (
         <footer className="grid sm:grid-cols-2 grid-cols-1 gap-4 justify-items-stretch p-8 sm:mx-auto max-w-5xl bg-neutral-100 mb-4 rounded-xl shadow mx-3">
             <div className="flex flex-col justify-start gap-4">
-                <Image className="rounded-3xl"
+                <Image className="rounded-full"
                     src={`/Liblio-logo.png`}
                     alt="Liblio"
-                    width={150}
+                    width={100}
                     height={38}
                     
                 />

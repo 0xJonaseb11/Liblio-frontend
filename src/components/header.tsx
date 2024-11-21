@@ -31,8 +31,8 @@ export const Header: React.FC = () => {
                     ref={ref}
                     src={`/Liblio-logo.png`}
                     alt="Liblio"
-                    width={120}
-                    height={48}
+                    width={100}
+                    height={38}
                 />
             </Link>
             <Link href={`/`} className="sm:hidden block">
