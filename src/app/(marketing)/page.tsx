@@ -28,12 +28,12 @@ export default function Page() {
                 <div className="grid grid-rows-1 w-full gap-16">
                     <div className="grid sm:grid-cols-2 grid-cols-1 gap-10 sm:px-0 px-3">
                         <div className="relative w-full h-[300px]">
-                            {/* <Image
-                                src={`/static/minerals.jpg`}
-                                alt="Minerals in vehicle"
+                            <Image
+                                src={`/static/books.jpeg`}
+                                alt="Books in shelves"
                                 fill
                                 className="rounded-2xl border border-white hover:shadow-md transition-all cursor-pointer"
-                            /> */}
+                            />
                         </div>
                         <div className="flex flex-col gap-6">
                             <h2 className="text-3xl font-medium text-neutral-800 mt-4">
@@ -55,12 +55,12 @@ export default function Page() {
                             </p>
                         </div>
                         <div className="relative w-full h-[300px]">
-                            {/* <Image
-                                src={`/static/people-in-mine.jpeg`}
-                                alt="People in mining site"
+                            <Image
+                                src={`/static/student-reading-book.jpeg`}
+                                alt="Student reading books"
                                 fill
                                 className="rounded-2xl border border-white hover:shadow-md transition-all cursor-pointer"
-                            /> */}
+                            />
                         </div>
                     </div>
                 </div>

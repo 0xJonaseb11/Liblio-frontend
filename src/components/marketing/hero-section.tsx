@@ -10,7 +10,7 @@ export const HeroSection: React.FC = () => {
             >
                 <Lock className="h-4 w-4" />
                 <p className="text-sm text-ellipsis text-center">
-                    Revolutioning the effective management of books for students
+                    Revolutionizing the effective management of books for students
                 </p>
                 <ArrowRight className="h-4 group-hover:translate-x-1 transition-all" />
             </Link>
