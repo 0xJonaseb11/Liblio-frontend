@@ -30,15 +30,15 @@ export const HeroSection: React.FC = () => {
             </div>
             <div className="sm:flex hidden items-center justify-between text-center h-52 w-full backdrop-blur-md bg-white/40 border border-white max-w-4xl p-8 rounded-xl shadow-lg">
                 <div>
-                    <h1 className="text-4xl">$43.63M</h1>
+                    <h1 className="text-4xl">$4.63M</h1>
                     <p className="font-medium">30 Day Volume</p>
                 </div>
                 <div>
-                    <h1 className="text-4xl">400T</h1>
-                    <p className="font-medium">Managed minerals</p>
+                    <h1 className="text-4xl">40T</h1>
+                    <p className="font-medium">Managed books</p>
                 </div>
                 <div>
-                    <h1 className="text-4xl">$159.73M</h1>
+                    <h1 className="text-4xl">$15.73M</h1>
                     <p className="font-medium">Yearly Revenue</p>
                 </div>
             </div>

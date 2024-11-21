@@ -22,7 +22,7 @@ export default function Page() {
                         Meet Liblio
                     </h1>
                     <p className="text-xl text-center text-neutral-600">
-                        Supply chain management for minerals.
+                        Library management system for worldwide schools
                     </p>
                 </div>
                 <div className="grid grid-rows-1 w-full gap-16">
@@ -37,11 +37,10 @@ export default function Page() {
                         </div>
                         <div className="flex flex-col gap-6">
                             <h2 className="text-3xl font-medium text-neutral-800 mt-4">
-                                Extensive Audits
+                                Reading as A Culture
                             </h2>
                             <p className="text-neutral-600">
-                                Peace of mind supported by multiple audits by
-                                the world&lsquo;s leading security firms.
+                                Book Inventories stored and kept securely with no risk of data loss of altering!!
                             </p>
                         </div>
                     </div>
@@ -52,7 +51,7 @@ export default function Page() {
                             </h2>
                             <p className="text-neutral-600">
                                 The Liblio secured with a backstop against
-                                protocol insolvency.
+                                protocol insolvency. No book record will ever leak. It's a deal!!
                             </p>
                         </div>
                         <div className="relative w-full h-[300px]">
