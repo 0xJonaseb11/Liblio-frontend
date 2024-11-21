@@ -6,11 +6,12 @@ export const Footer: React.FC = () => {
     return (
         <footer className="grid sm:grid-cols-2 grid-cols-1 gap-4 justify-items-stretch p-8 sm:mx-auto max-w-5xl bg-neutral-100 mb-4 rounded-xl shadow mx-3">
             <div className="flex flex-col justify-start gap-4">
-                <Image
+                <Image className="rounded-3xl"
                     src={`/Liblio-logo.png`}
                     alt="Liblio"
                     width={150}
                     height={38}
+                    
                 />
                 <p className="text-xs">
                     Liblio does its best to keep books and libraries secure by ensuring no data losses or altering hence the traceability of books for securing future of younger talents(scholars)

@@ -27,16 +27,16 @@ export const Header: React.FC = () => {
     return (
         <header className="flex w-auto h-full px-4 sm:justify-around justify-between sm:py-8 py-2 items-center">
             <Link href={`/`} className="sm:block hidden">
-                <Image
+                <Image className="rounded-full"
                     ref={ref}
                     src={`/Liblio-logo.png`}
                     alt="Liblio"
-                    width={160}
-                    height={52}
+                    width={120}
+                    height={48}
                 />
             </Link>
             <Link href={`/`} className="sm:hidden block">
-                <Image
+                <Image className="rounded-full"
                     ref={ref}
                     src={`/Liblio-logo.png`}
                     alt="Liblio"
