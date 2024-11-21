@@ -48,7 +48,7 @@ export default function Page() {
                     <div className="grid sm:grid-cols-2 grid-cols-1 gap-10 sm:px-0 px-3">
                         <div className="flex flex-col gap-6">
                             <h2 className="text-3xl font-medium text-neutral-800 mt-6">
-                                Shortfall Secured
+                                {/* Shortfall Secured */}
                             </h2>
                             <p className="text-neutral-600">
                                 The Liblio secured with a backstop against
