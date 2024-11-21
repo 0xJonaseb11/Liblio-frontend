@@ -29,7 +29,7 @@ export const Header: React.FC = () => {
             <Link href={`/`} className="sm:block hidden">
                 <Image
                     ref={ref}
-                    src={`/logo_dark.svg`}
+                    src={`/Liblio-logo.png`}
                     alt="Liblio"
                     width={160}
                     height={52}
@@ -38,8 +38,8 @@ export const Header: React.FC = () => {
             <Link href={`/`} className="sm:hidden block">
                 <Image
                     ref={ref}
-                    src={`/logo_small.svg`}
-                    alt=">Liblio
+                    src={`/Liblio-logo.png`}
+                    alt="Liblio"
                     width={50}
                     height={40}
                 />
