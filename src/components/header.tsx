@@ -30,7 +30,7 @@ export const Header: React.FC = () => {
                 <Image
                     ref={ref}
                     src={`/logo_dark.svg`}
-                    alt="Stoneproof"
+                    alt="Liblio"
                     width={160}
                     height={52}
                 />
@@ -39,7 +39,7 @@ export const Header: React.FC = () => {
                 <Image
                     ref={ref}
                     src={`/logo_small.svg`}
-                    alt="Stoneproof"
+                    alt=">Liblio
                     width={50}
                     height={40}
                 />

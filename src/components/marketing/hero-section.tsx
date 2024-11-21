@@ -10,19 +10,16 @@ export const HeroSection: React.FC = () => {
             >
                 <Lock className="h-4 w-4" />
                 <p className="text-sm text-ellipsis text-center">
-                    Revolutioning mineral supply chain with using the Etherium!
+                    Revolutioning the effective management of books for students
                 </p>
                 <ArrowRight className="h-4 group-hover:translate-x-1 transition-all" />
             </Link>
             <div className="max-w-3xl text-center space-y-10 mt-12 mb-4">
                 <h1 className="animate-fade-up capitalize bg-gradient-to-br text-4xl text-neutral-800 font-bold tracking-[-0.02em] [text-wrap:balance] text-center md:text-6xl md:leading-[1.1]">
-                    The Platform To Optimize Mineral Supply Chains
+                    The platform To mnage books and libraries in a decentralized manner
                 </h1>
                 <p className="text-neutral-700">
-                    Streamline your mineral supply chain operations with
-                    enhanced transparency, and secure transactions. Leverage
-                    blockchain technology to ensure efficiency and trust across
-                    the supply chain.
+                    Streamline you library management in schools for a better future of young scholars
                 </p>
             </div>
             <div>

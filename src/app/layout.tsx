@@ -5,7 +5,7 @@ import "./globals.css"
 import { Providers } from "./providers"
 
 export const metadata: Metadata = {
-    title: "Stoneproof",
+    title: "liblio",
 }
 
 const inter = Inter({ subsets: ["latin"] })

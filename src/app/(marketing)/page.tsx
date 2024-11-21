@@ -19,7 +19,7 @@ export default function Page() {
             <section className="flex flex-col gap-4 mb-16">
                 <div className="flex flex-col justify-center gap-6 items-center px-3 py-10">
                     <h1 className="text-3xl sm:text-4xl font-medium text-neutral-800">
-                        Meet Stoneproof
+                        Meet Liblio
                     </h1>
                     <p className="text-xl text-center text-neutral-600">
                         Supply chain management for minerals.
@@ -51,7 +51,7 @@ export default function Page() {
                                 Shortfall Secured
                             </h2>
                             <p className="text-neutral-600">
-                                The Stoneproof secured with a backstop against
+                                The Liblio secured with a backstop against
                                 protocol insolvency.
                             </p>
                         </div>
@@ -71,7 +71,7 @@ export default function Page() {
                 <div className="space-y-4 sm:px-0 px-3">
                     <h2 className="text-4xl font-medium">Trust, Unlocked.</h2>
                     <p className="text-xl">
-                        Stoneproof can be trusted with these powerful features.
+                        Liblio can be trusted with these powerful features.
                     </p>
                 </div>
                 <div className="grid sm:grid-cols-2 grid-cols-1 sm:grid-rows-[300px_300px] grid-rows-[300px_300px_300px_300px] mt-12 gap-10 sm:px-0  px-3">
@@ -128,37 +128,33 @@ export default function Page() {
                     <Accordion type="single" collapsible className="w-full">
                         <AccordionItem value="item-1">
                             <AccordionTrigger>
-                                What is Stoneproof?
+                                What is Liblio?
                             </AccordionTrigger>
                             <AccordionContent>
-                                Yes. It adheres to the WAI-ARIA design pattern.
+                                It is a Decentralized platform for managing books and libraries in schools!
                             </AccordionContent>
                         </AccordionItem>
                         <AccordionItem value="item-2">
                             <AccordionTrigger>
-                                Where are supplied tokens stored?
-                            </AccordionTrigger>
+                                How are books and libraries managed in a network                            </AccordionTrigger>
                             <AccordionContent>
-                                Yes. It comes with default styles that matches
-                                the other components&apos; aesthetic.
+                                They are managed on the network and monitored by nodes in a network powered by Klayr
                             </AccordionContent>
                         </AccordionItem>
                         <AccordionItem value="item-3">
                             <AccordionTrigger>
-                                Does Stoneproof have risks?
+                                Does Libliohave risks?
                             </AccordionTrigger>
                             <AccordionContent>
-                                Yes. It&apos;s animated by default, but you can
-                                disable it if you prefer.
+                               Nope! Currently, there are no known risks associated with Liblio
                             </AccordionContent>
                         </AccordionItem>
                         <AccordionItem value="item-3">
                             <AccordionTrigger>
-                                Why should I trust Stoneproof?
+                                Why should I trust Liblio?
                             </AccordionTrigger>
                             <AccordionContent>
-                                Yes. It&apos;s animated by default, but you can
-                                disable it if you prefer.
+                                Liblio is built on Klayr blockchain that ensures integrity and traceability of books across the whole chain!
                             </AccordionContent>
                         </AccordionItem>
                     </Accordion>
